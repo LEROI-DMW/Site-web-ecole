@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"alt"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"NA",
+				"name-mother"
+			],
+			[
+				"ET",
+				"ETABLISSEMENT"
+			],
+			[
+				"ins",
+				"incscription"
+			],
+			[
+				"f",
+				"for"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"d",
+				"dropdown-content"
+			],
+			[
+				"dm",
+				"DMW"
+			],
+			[
+				"me",
+				"menu"
+			],
+			[
+				"botto",
+				"border-bottom"
+			],
+			[
+				"blue",
+				"darkblue"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/Documents/PROJET LEROI/mon-style.css",
+		"/C/Users/user/Documents/PROJET LEROI/ACCUEILLE.html",
+		"/C/Users/user/Documents/PROJET LEROI/mon-style",
+		"/C/Users/user/Desktop/EXEMPLE/bon-styl.css",
+		"/C/Users/user/Desktop/EXPER/EXPER/photo/bon-styl.css",
+		"/C/Users/user/Desktop/EXEMPLE/list css.html",
+		"/C/Users/user/Desktop/EXPER/EXPER/photo/activites.jpg",
+		"/C/Users/user/Desktop/EXPER/EXPER/photo/velo.jpg",
+		"/C/Users/user/Desktop/EXPER/EXPER/du-style.css.css",
+		"/C/Users/user/Desktop/EXPER/EXPER/index.html",
+		"/C/Users/user/Desktop/EXPER/EXPER/hobys.html",
+		"/C/Users/user/Desktop/EXPER/EXPER/experience.html",
+		"/C/Users/user/Desktop/EXPER/EXPER/contact.html",
+		"/C/Users/user/Desktop/EXPER/EXPER/mon-CV.html",
+		"/C/Users/user/Desktop/EXPER/mon-CV.html",
+		"/C/Users/user/Desktop/EXPER/du-style.css",
+		"/C/Users/user/Desktop/EXPER/MON-STYLE.css",
+		"/C/Users/user/Desktop/EXPER/mon-CV.css",
+		"/C/Users/user/Desktop/exper EXEMPLE.html",
+		"/C/Users/user/Documents/PROJET LEROI/images/logo_ecole.jpg",
+		"/C/Users/user/Documents/PROJET LEROI/MON TYP.CSS",
+		"/C/Users/user/Documents/PROJET LEROI/quali liens.html",
+		"/C/Users/user/Documents/PROJET LEROI/EXEMPLE/exm div.css",
+		"/C/Users/user/Documents/PROJET LEROI/EXEMPLE/DIV.html",
+		"/C/Users/user/Documents/PROJET LEROI/div ex.html",
+		"/C/Users/user/Documents/PROJET LEROI/exemple css",
+		"/C/Users/user/Documents/attrib.html",
+		"/C/Users/user/Documents/attribut html.html",
+		"/C/Users/user/Documents/tbl.html",
+		"/C/Users/user/Documents/hy.html",
+		"/C/Users/user/Documents/h1,p{",
+		"/C/Users/user/Documents/liste.html",
+		"/C/Users/user/Documents/mat im.html",
+		"/C/Users/user/Documents/commentaire css.css",
+		"/C/Users/user/Documents/c2 css.html",
+		"/C/Users/user/Documents/c ccs.html",
+		"/C/Users/user/Documents/col css.html",
+		"/C/Users/user/Documents/COLOR CSS.html",
+		"/C/Users/user/Documents/IMA HTLM.html",
+		"/C/Users/user/Documents/ancre.html",
+		"/C/Users/user/Documents/LIEN.html",
+		"/C/Users/user/Documents/LISTES",
+		"/C/Users/user/Documents/retour",
+		"/C/Users/user/Documents/DMW LEROI.html",
+		"/C/Users/user/Documents/tbd.css",
+		"/C/Users/user/Documents/tbl",
+		"/C/Users/user/Documents/HU.css",
+		"/C/Users/user/Documents/bl.html",
+		"/C/Users/user/Documents/html",
+		"/C/Users/user/Documents/mn.css",
+		"/C/Users/user/Documents/mn",
+		"/C/Users/user/Documents/LEROI.rtf",
+		"/C/Users/user/Documents/IMAGE HTLM.html",
+		"/C/Users/user/OneDrive/Images/sauve-auto",
+		"/C/Users/user/Documents/Scanned Documents/Documents/LEROI.rtf",
+		"/C/Program Files/Sublime Text/LEROI PROG/html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "modifications.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"COL",
+				"C:\\Users\\user\\Documents\\COLOR CSS.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 705.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1366.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

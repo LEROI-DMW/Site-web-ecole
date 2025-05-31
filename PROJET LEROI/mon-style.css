@@ -1,0 +1,148 @@
+body {
+        font-family: Helvetica;
+}
+.right-header {
+    width: 75%;
+    text-align:left;
+    height: auto;
+    position: relative;
+}
+.h1 {
+        text-align:left;
+        font-size: 25px;
+}
+.left-header {
+        /*vertical-align: baseline;*/
+        width: 25%;
+        text-align: center;
+        margin: 10px;
+        padding: 20px;
+        font-size: 15px;
+}
+
+.flex-container {
+  display: flex;
+  background-color: darkblue;
+  width: 100%;
+  color: white;
+}
+.liens-utiles {
+        display: block;
+}
+.liens-utiles > ol {
+  background: #ff9999;
+  padding: 20px;
+}
+
+.liens-utiles > ul {
+  background: #3399ff;
+  padding: 20px;
+}
+
+.liens-utiles > ul li {
+  background: #cce5ff;
+  color: darkblue;
+  margin: 5px;
+}
+
+/*.flex-container > div {
+  font-size: 10px;
+}*/
+.logo {
+        width: 70px;
+}
+
+.menu{
+        width: 100%;
+        position: absolute;
+        bottom: 5px;
+}
+.menu > ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  
+  font-size: 17px;
+}
+.menu > ul li {
+        float: left;
+        width: 200px;
+        background-color: #f1f1f1;
+        position: relative;
+        /*display: inline-block;*/
+}
+.menu > ul li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.menu > ul li a.active {
+  background-color: steelblue;
+  color: white;
+}
+
+.menu > ul li a:hover:not(.active) {
+  background-color: lightblue;
+  color: white;
+}/*retirer ici*/
+  .menu > ul li:hover .drpcnt{
+        display: block;
+  }
+.drpcnt > a {
+  color: blue;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.drpcnt > a:hover {background-color: #f1f1f1;}
+
+
+.menu1 {
+      position: absolute;
+      top:10px;   
+      right: 10px;
+}
+.menu1 > ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu1 > ul li {
+  display: inline;
+  color: white;
+}
+.menu1 > ul li a{
+text-decoration:none ;
+color: white;
+font-size: 15px;
+font-family:helvetica ;
+padding:  10PX 18PX;
+ box-sizing: border-box;
+}
+.menu1 > ul li a:hover{
+        color: lightblue;
+}
+input {
+  width: 100%;
+} .drpcnt{
+        display: none;
+        position: absolute;
+        color:blueviolet;
+        background-color:#f8f8f8 ;
+        min-width: 170px;
+        box-shadow: 0px 10px 20px 10px.rgb(0, 00,0 / 0,15);
+        z-index: 1;
+          }
+  .menu1 > ul li:hover .drpcnt{
+        display: block;
+  }
+.drpcnt >form  {
+  color: blue;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
